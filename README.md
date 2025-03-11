@@ -2,7 +2,7 @@
 
 🚀 Frontend Developer | React | Next.js | TypeScript | Full Stack Enthusiast  
 
-I'm a **Frontend Developer with 3+ years of experience** in building **scalable, responsive, and high-performance web applications**. My expertise lies in **React, Next.js, TypeScript, and MUI**, with a strong foundation in **backend technologies** for full-stack development.
+I'm a **Frontend Developer with 2+ years of experience** in building **scalable, responsive, and high-performance web applications**. My expertise lies in **React, Next.js, TypeScript, and MUI**, with a strong foundation in **backend technologies** for full-stack development.
 
 ---
 
@@ -21,7 +21,7 @@ I'm a **Frontend Developer with 3+ years of experience** in building **scalable,
 - Developed web applications focused on **financial inclusion, behavioral insights, and social impact**.  
 - Improved **performance, accessibility, and user engagement** for multiple projects.  
 
-### **Verzeo (Jan 2022 - Feb 2023) | Frontend Developer**  
+### **Verzeo (Aug 2022 - Feb 2023) | Frontend Developer**  
 - Built and maintained websites with **HTML, CSS, JavaScript, and React**.  
 - Enhanced frontend performance and design consistency.  
 
