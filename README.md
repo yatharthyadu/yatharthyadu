@@ -52,7 +52,7 @@ I'm a **Frontend Developer with 2+ years of experience** in building **scalable,
 ## 📫 Connect with Me  
 📧 Email: yatharth.yadu66@gmail.com  
 📍 Location: Bangalore  
-🌐 [LinkedIn](#) | [Portfolio](#) | [Twitter](#)  
+🌐 [LinkedIn](#)  | [Twitter](#)  
 
 
 
