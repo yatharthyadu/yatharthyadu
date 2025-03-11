@@ -54,14 +54,6 @@ I'm a **Frontend Developer with 2+ years of experience** in building **scalable,
 📍 Location: Bangalore  
 🌐 [LinkedIn](#) | [Portfolio](#) | [Twitter](#)  
 
----
 
-📊 **GitHub Stats**  
-![Yatharth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
-
-✍️ **Most Used Languages**  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)  
-
----
 
 ⚡ **Let's build something amazing together!**
